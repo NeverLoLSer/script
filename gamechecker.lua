@@ -1,7 +1,5 @@
 local targetPlaceIds = {
     [8737899170] = "Pet Simulator 99",
-    [15502339080] = "Pet Simulator 99 Trading Plaza",
-    [15588442388] = "Pet Simulator 99 Pro Trading Plaza"
 }
 
 -- Wait for the local player to be available
